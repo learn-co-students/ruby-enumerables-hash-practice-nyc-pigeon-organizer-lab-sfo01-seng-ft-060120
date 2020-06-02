@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 def nyc_pigeon_organizer(data)
   pigeon_names = {}
 data.each do |color_gender_live, info|
